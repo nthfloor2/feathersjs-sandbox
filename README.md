@@ -1,6 +1,6 @@
 # feathers-chat
 
-> Chat bot built with Feathersjs
+> 
 
 ## About
 
